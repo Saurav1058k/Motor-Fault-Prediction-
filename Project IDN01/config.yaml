@@ -1,0 +1,12 @@
+# Given Ideal and non_ideal excel file
+ideal_data_path: '/content/drive/MyDrive/Colab Notebooks/Project IDN01/ideal.xlsx'
+
+non_ideal_data_path: '/content/drive/MyDrive/Colab Notebooks/Project IDN01/nonideal.xlsx'
+
+# To store and reuse ideal Harmonics and Non-ideal Harmonics file
+
+ideal_harmonic_data_path: '/content/drive/MyDrive/Colab Notebooks/Project IDN01/ideal_harmonics_data.xlsx'
+
+non_ideal_harmonic_data_path: '/content/drive/MyDrive/Colab Notebooks/Project IDN01/nonideal_harmonics_data.xlsx'
+
+
